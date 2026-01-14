@@ -6,14 +6,14 @@
             "bin": [
                 "thru.exe"
             ],
-            "hash": "761dd9b9a8621ffcd33a3af2fe95110913e31905f5a1d9b6cf289efa24c70cd9"
+            "hash": "18986e50c5c1d03f1f02569a6e5d7ae3ef4523fa9abd18c177b18ca08bc8cacf"
         },
         "arm64": {
             "url": "https://github.com/samsungplay/Thruflux/releases/download/v0.1.1/thru_v0.1.1_windows_arm64.zip",
             "bin": [
                 "thru.exe"
             ],
-            "hash": "b2c7cfb843879a2edd9635232b49939680ae4365a53e71ebff932156f6412a63"
+            "hash": "81e496054b0fecdd89fede1078d71f294d310f6a5cb9562e0e310d300274c7d4"
         }
     },
     "homepage": "https://github.com/samsungplay/Thruflux",
