@@ -1,19 +1,19 @@
 {
-    "version": "0.1.2",
+    "version": "0.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/samsungplay/Thruflux/releases/download/v0.1.2/thru_v0.1.2_windows_amd64.zip",
+            "url": "https://github.com/samsungplay/Thruflux/releases/download/v0.1.0/thru_v0.1.0_windows_amd64.zip",
             "bin": [
                 "thru.exe"
             ],
-            "hash": "bed0007de295555cd7b9123b9631cde2d37f157af526e73e76e9e5d7c2dbc27e"
+            "hash": "3f898415b3a59e52aee8fd39b81a6b8d54a30818cfca93fa259782d3ddd55edf"
         },
         "arm64": {
-            "url": "https://github.com/samsungplay/Thruflux/releases/download/v0.1.2/thru_v0.1.2_windows_arm64.zip",
+            "url": "https://github.com/samsungplay/Thruflux/releases/download/v0.1.0/thru_v0.1.0_windows_arm64.zip",
             "bin": [
                 "thru.exe"
             ],
-            "hash": "a82d9cd166b286171647a1ec598e0eff748c87a60a8269df4f5d886a5624fc4d"
+            "hash": "268ab676ccc7c36ac3cf87916b582cb154819814d5c5da7cce33583d418cde95"
         }
     },
     "homepage": "https://github.com/samsungplay/Thruflux",
